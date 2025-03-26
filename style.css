@@ -34,7 +34,7 @@ nav {
   top: 0;
   left: 0;
   width: 100vw;
-  padding: 2em;
+  padding: 2vw;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -43,7 +43,7 @@ nav {
 
 .nav-items {
   display: flex;
-  gap: 2em;
+  gap: 2vw;
 }
 
 .logo {
@@ -55,7 +55,7 @@ nav {
 
 .logo a {
   color: black;
-  font-size: 24px;
+  font-size: 2vw;
   font-weight: 900;
 }
 
@@ -75,11 +75,11 @@ a,
 p {
   text-decoration: none;
   text-transform: uppercase;
-  font-size: 18px;
+  font-size: 3vmin;
   color: white;
   font-weight: 100;
 }
 
 footer p:nth-child(1){
-    width: 485px;
+    width: 90vmin;
 }
